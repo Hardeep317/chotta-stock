@@ -1,0 +1,1189 @@
+.top-img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .image-one-top {
+    width: 100%;
+  }
+
+  .logo {
+    width: 318px;
+    height: 91px;
+    flex-shrink: 0;
+    background: url("H:\Chottastock\chotta-stock\public\logo.png"),
+      #171e27 50% / cover no-repeat;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .navbar{
+    background: #171e27;
+    width: 100%;
+    position: relative;
+  }
+
+  .gateway-button-all-in-one{
+    width: 178px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #FDECEC;
+    position: absolute;
+    left: 500px;
+    top: 30px;
+    color: #F05656;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .circle{
+    /* margin-right: -30px; */
+  }
+
+  .product-container-details-in-navbar{
+    width: 1454px;
+    height: 595px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    z-index: 10;
+    position: absolute;
+    top: 120px;
+    left: 220px;
+    padding: 40px 70px;
+  }
+
+  .product-container-contains-both-divs{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .second-container-to-hold-products{
+    width: 40%;
+    margin-left: 40px;
+  }
+
+  .market-research-heading-insecond-data-container{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  .market-research-deatils-in-text-data{
+    width: 411px;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .first-container-second-container-to-hold-data{
+    display: flex;
+    margin-bottom: 50px;
+  }
+
+  .first-second-container-to-hold-data-about-data-com{
+    margin-left: 30px;
+  }
+
+.mutual-funds-of-products-in-first{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+  .first-container-to-hold-products{
+    text-align: left;
+  }
+
+  .heading-of-first-container-to-hold{
+    color: #28B570;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 60px;
+  }
+  
+.other-info-in-text-in-mutual-fund-products-top{
+    margin-left: 30px;
+}
+
+  .mutual-funds-heading-of-top-most-product-in-top-container{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  .mutual-funds-text-details-of-top-most-product-in-top-container{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .navbar-inner {
+    width: 80vw;
+    margin: auto;
+    height: 120px;
+    flex-shrink: 0;
+    background: #171e27;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav-contents-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .products-text{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .about-us-text{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .navbar-options{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 25%;
+  }
+
+  .first-container{
+    width: 1921px;
+    height: 851px;
+    flex-shrink: 0;
+    margin-top: 100px;
+  }
+
+  .first-decenent-in-container-first{
+    width: 75%;
+    margin: auto;
+    text-align: left;
+    display: flex;
+  }
+
+  .stack-details-one{
+    width: 569px;
+    color: #F3A61D;
+    font-family: Gilroy;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .for-india{
+    color: #171E27;
+    font-family: Gilroy;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .stack-details-info{
+    width: 716px;
+    color: #171E27;
+    font-family: Gilroy;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 54px; /* 128.571% */
+    margin-top: 40px;
+  }
+
+  .comprehensive-api{
+    color: #28B570;
+    font-family: Gilroy;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 54px;
+  }
+
+  .some-good-advices{
+    width: 685px;
+    color: #171E27;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+  }
+
+  .see-our-products{
+    color: #171E27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    margin-top: 30px;
+  }
+
+  .tilt-arrpw{
+    margin-left: 10px;
+  }
+
+  .contact-us-button{
+    width: 178px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: linear-gradient(99deg, #FEC826 0%, #F3A61D 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #171E27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+  }
+
+  .cards-div{
+    width:30%;
+    margin: auto;
+    position: relative;
+    margin-top: 200px;
+    z-index: 1;
+  }
+
+  .card-one-green{
+    width: 412.82px;
+    height: 560.526px;
+    transform: rotate(-14.407deg);
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: linear-gradient(138deg, #74DB96 0%, #1DF5F4 99.91%);
+    padding: 40px 0 0 20px;
+    text-align: left;
+    position: absolute;
+    left: -20%;
+  }
+
+  .claw-image{
+    width: 73px;
+    height: 96px;
+    transform: rotate(10deg);
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\claw.png'), #74DB96 50% / cover no-repeat;
+  }
+
+  .stocks-text{
+    transform: rotate(-5.656deg);
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+  }
+
+
+
+  .card-two-red{
+    width: 412.82px;
+    height: 560.526px;
+    transform: rotate(2.739deg);
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: linear-gradient(337deg, #C0CEED 0%, #CDBFD3 7.81%, #D100CE 31.77%, #FC583D 44.27%, #E5CCD1 71.35%, #FDD8D0 78.13%, #FA8A77 99.91%);
+    padding: 60px 0 0 40px;
+    text-align: left;
+    position: absolute;
+    top: -100px;
+    left: 10%;
+  }
+
+    
+  .claw-image-two{
+    width: 73px;
+    height: 96px;
+    transform: rotate(8.466deg);
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\claw.png'), #FDD8D0 50% / cover no-repeat;
+  }
+
+  .mutual-fund-text{
+    transform: rotate(-2.19deg);
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+
+  .card-three-gold{
+    width: 412.82px;
+    height: 560.526px;
+    transform: rotate(25.199deg);
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: linear-gradient(85deg, #FEC974 0%, #FA8A77 99.91%);
+    padding: 40px 0 0 70px;
+    position: absolute;
+    left: 55%;
+  }
+
+  .claw-image-three{
+    width: 73px;
+    height: 96px;
+    transform: rotate(20.956deg);
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\claw.png'), #FEC974 50% / cover no-repeat;
+  }
+
+  .digital-gold-text{
+    transform: rotate(6.235deg);
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 30px;
+    margin-left: -50px;
+  }
+
+  .second-container-white-bg{
+    width: 80vw;
+    min-height: 400px;
+    margin: auto;
+    background-color: #fff;
+    margin-top: -60px;
+    z-index: 10;
+    position: relative;
+  }
+
+  
+.child-second-features {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .child-features-container {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    padding-top: 200px;
+    margin-bottom: 150px;
+  }
+  
+  .features {
+    color: #28b570;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 25px;
+  }
+  
+  .feature-exp {
+    width: 574px;
+    height: 104px;
+    color: #000;
+    font-family: "Gilroy";
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 25px;
+    line-height: 52px; /* 123.81% */
+  }
+  
+  .featur-last {
+    width: 655px;
+    color: #777;
+    font-family: "Gilroy";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; /* 140% */
+  }
+  
+  .button-container-second {
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: space-between;
+    margin-top: 100px;
+  }
+  
+  .featur-button-child-one {
+    color: #171e27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 178px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: linear-gradient(99deg, #fec826 0%, #f3a61d 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+  }
+  
+  .featur-button-child-two {
+    color: #171e27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+  }
+  
+
+  .fetures-container-number-two{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 40px;
+    align-items: center;
+    row-gap: 30px;
+  }
+
+  .protection-container{
+    width: 267px;
+    height: 257px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F3F3F3;
+    padding: 15px;
+  }
+
+  .protection-text{
+    color: #979797;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 142px;
+    height: 35px;
+    margin: auto;
+  }
+
+  .protection-image-in-container{
+    width: 99px;
+    height: 99px;
+    flex-shrink: 0;
+    margin: auto;
+    background: url('H:\Chottastock\chotta-stock\public\protection.png'), #F3F3F3 50% / cover no-repeat;
+  }
+
+  .text-details-in-protection{
+    width: 228px;
+    color: #979797;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 10px;
+  }
+
+
+  .tracking-container{
+    width: 301px;
+    height: 290px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #171E27;
+    padding: 15px;
+    text-align: center;
+  }
+
+  .tracking-text{
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: auto;
+  }
+
+  .tracking-image-in-container{
+    width: 175px;
+    height: 175px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\tracking.png'), #171E27 50% / cover no-repeat;
+    margin: auto;
+  }
+
+  .text-details-in-tracking{
+    width: 228px;
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: auto;
+    margin-top: -20px;
+  }
+
+  .protection-container-two{
+    width: 267px;
+    height: 257px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F3F3F3;
+    padding: 15px;
+  }
+
+  .flexibility-text{
+    color: #979797;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: auto;
+    text-align: center;
+  }
+
+  .flexibility-image-in-container{
+    width: 104px;
+    height: 104px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\flexibility.png'), #F3F3F3 50% / cover no-repeat;
+    margin: auto;
+  }
+
+  .text-details-in-flexibility{
+    width: 228px;
+    color: #979797;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 10px;
+  }
+
+  .protection-container-three{
+    width: 267px;
+    height: 257px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F3F3F3;
+    padding: 15px;
+  }
+
+  .easiness-text{
+    color: #979797;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+  }
+
+  .easiness-image-in-container {
+    width: 106px;
+    height: 106px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\easiness.png'), #F3F3F3 50% / cover no-repeat;
+    margin: auto;
+  }
+
+  .text-details-in-easiness{
+    width: 228px;
+    color: #979797;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 10px;
+  }
+
+  .connecting-finances-container{
+    width: 1654px;
+    height: 629px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #171E27;
+    margin: auto;
+    padding: 100px 20px 0 100px;
+    position: relative;
+  }
+
+
+  .heading-about-connecting-finances{
+    width: 977px;
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 116.667% */
+    text-align: left;
+  }
+
+  .text-details-about-connecting-finances{
+    width: 841px;
+    color: #CECECE;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: left;
+    margin: 40px 0;
+  }
+
+  .try-investpay-now{
+    width: 251px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: linear-gradient(99deg, #FEC826 0%, #F3A61D 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #171E27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hand-image-in-connecting-finances{
+    width: 530px;
+    height: 365px;
+    transform: rotate(0.349deg);
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\hand.png'), #171E27 50% / cover no-repeat;
+    position: absolute;
+    bottom: 1%;
+    right: 8%;
+  }
+
+.solution-container-for-finanace{
+    margin-top: 100px;
+    padding: 20px 0px 20px 50px;
+    margin-bottom: 70px;
+}
+
+  .solution-text{
+    color: #28B570;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+  }
+
+  .solution-container-heading{
+    width: 564px;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px; /* 123.81% */
+    text-align: left;
+    margin-top: 30px;
+  }
+
+  .container-with-two-boxes{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 50px;
+  }
+
+
+  .container-with-all-boxes{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -50px;
+  }
+
+  .why-start-with-us{
+    width: 353px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #FDE3AF;
+    background: #FEF8EC;
+    padding: 20px 20px 20px 30px;
+    text-align: left;
+  }
+
+  .top-image-container-why-start-with-us{
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\swipe-card.png'), #FEF8EC 50% / cover no-repeat;
+}
+
+.investype-in-why-start-with-us{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 20px 0;
+}
+
+.question-text-why-start-with-us{
+    width: 281px;
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.we-value-your-time-container{
+    width: 735px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #FDE3AF;
+    background: #FAFCFD;
+    position: relative;
+    margin-left: -160px;
+}
+
+.heading-and-text-in-we-value-your-time{
+    width: 378px;
+    text-align: left;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+
+.heading-of-we-value-your-time-child-container{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.other-text-info-of-we-value-your-time-child-container{
+    color: #1C1E21;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+.flex-container-in-we-value-your-time{
+    display: flex;
+}
+
+.dashboard-showing-picture-in-we-value-your-time{
+    width: 259.133px;
+    height: 272.824px;
+    flex-shrink: 0;
+    border-radius: 18.325px 18.325px 0px 0px;
+    background: url('H:\Chottastock\chotta-stock\public\dashboard.png'), #FAFCFD 50% / cover no-repeat;
+    position: absolute;
+    bottom: 0px;
+    right: 5%;
+}
+
+.mutual-funds-and-complete-infra{
+    width: 556px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #FDE3AF;
+    background: #FAFCFD;
+    padding: 40px;
+    text-align: left;
+}
+
+.mutual-funds-text-in-mutual-and-complete-infra{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.get-complete-infra-text{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 455px;
+    margin: 15px 0px;
+}
+
+.some-main-points-to-be-noticed{
+    margin-top: 15px;
+}
+
+.first-point-includes-sebi{
+    display: flex;
+    align-items: center;
+}
+
+.sebi-text-of-first-point{
+    width: 395px;
+    height: 42px;
+    flex-shrink: 0;
+    color: #1C1E21;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px; /* 145.833% */
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.one-gateway-for-all-security-questions{
+    width: 525px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #FDE3AF;
+    background: #FAFCFD;
+    padding: 40px;
+    text-align: left;
+}
+
+.indian-equity-text{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.heading-for-one-gateway-for-all-security{
+    color: #7C59CF;
+    width: 470px;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 15px 0 25px 0;
+}
+
+.first-point-container-holds-info-of-this{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.text-related-to-the-first-container-that-holds-info{
+    width: 377px;
+    color: #1C1E21;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 20px;
+}
+
+.second-point-container-holds-info-of-this{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.text-related-to-the-second-container-that-holds-info{
+    width: 412px;
+    color: #1C1E21;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 20px;
+}
+
+.offers-expert-curated{
+    margin-top: 40px;
+    width: 412px;
+    color: #1C1E21;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 40px;
+}
+
+.container-with-single-box{
+    width: 353px;
+    height: 846px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 1px solid #FDE3AF;
+    background: #FEF8EC;
+    overflow: hidden;
+}
+
+.container-with-single-box{
+    text-align: left;
+    padding: 60px 15px 0 40px;
+}
+
+.fixed-deposit-text{
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 25px 0;
+}
+
+.heading-fully-digital-fds{
+    width: 255px;
+    color: #7C59CF;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+
+.fixed-deposit-details-text{
+    width: 271px;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+
+.screenshot-of-service-in-it{
+    width: 310px;
+    height: 601px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\screen-shot.png'), lightgray 50% / cover ;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.how-would-you-like-to-work-with-us{
+    width: 1538px;
+    height: 928px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: linear-gradient(180deg, #FEC175 0%, #FB9077 100%);
+    margin-top: 70px;
+    padding: 88px 79px;
+    text-align: left;
+    position: relative;
+    margin-bottom: 200px;
+}
+
+.text-how-would-you-work-with-us{
+    color: #000;
+    font-family: Gilroy;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 83.333% */
+}
+
+.main-child-of-how-to-work-with-us{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tell-us-more-about-yourself{
+    width: 523px;
+    color: #474747;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px; /* 116.667% */
+    margin: 20px 0 70px 0;
+}
+
+.work-email-of-yours{
+    color: #474747;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px; /* 145.833% */
+}
+
+.holder-for-form-inputs{
+    margin: 50px 0;
+}
+
+.input-box-of-work-email{
+    width: 488px;
+    height: 75px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+    border: none;
+    padding: 40px;
+    padding-top: 55px;
+}
+
+::placeholder{
+    color: #8B8B8B;
+font-family: Gilroy;
+font-size: 42px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px; /* 83.333% */
+}
+
+.second-container-how-to-work-with-us{
+    /* ; */
+}
+
+.headings-of-products-listed{
+    width: 415px;
+    color: #474747;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px; /* 145.833% */
+text-align: left;
+}
+
+.products-lists-in-detail{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 20px;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.mutual-funds-service{
+    width: 223px;
+    height: 153px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #FFF;
+    padding: 15px;
+    text-align: center;
+}
+
+.heading-of-mutual-funds{
+    color: #000;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+}
+
+
+.mutual-fund-details-in-text-form{
+    width: 149px;
+    color: #888;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: auto;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.submit-button{
+    width: 137px;
+    height: 57px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: linear-gradient(99deg, #171E27 0%, #171E27 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 170px;
+    right: 5%;
+    }

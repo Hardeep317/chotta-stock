@@ -1,0 +1,243 @@
+
+.footer{
+    width: 1920px;
+    height: 830px;
+    flex-shrink: 0;
+    background: #171E27;
+    margin: auto;
+  }
+
+  .inner-footer-container{
+    padding-top: 80px;
+    width: 94vw;
+    margin: auto;
+  }
+
+  .footer-logo{
+    width: 318px;
+    height: 91px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\logo.png'), #171E27 50% / cover no-repeat;
+    margin-left: -30px;
+  }
+
+  .footer-info-container-first{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+  }
+
+  .contact-us-text{
+    display: flex;
+    width: 136px;
+    height: 29.937px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #F6F6F6;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px; /* 150% */
+    letter-spacing: -0.286px;
+    margin-bottom: 15px;
+  }
+
+  .contact-number{
+    display: flex;
+    width: 145.333px;
+    height: 37.698px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 27px; /* 150% */
+    letter-spacing: -0.286px;
+  }
+
+  .contact-email{
+    display: flex;
+    width: 286.667px;
+    height: 27.719px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 27px; /* 150% */
+    letter-spacing: -0.286px;
+    margin-left: -10px;
+  }
+
+  .company-text{
+    display: flex;
+    width: 121.333px;
+    height: 34.372px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px; /* 135% */
+    letter-spacing: -0.286px;
+  }
+
+  .other-main-info{
+    display: flex;
+    width: 268px;
+    height: 109.768px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 27px; /* 150% */
+    letter-spacing: -0.286px;
+    text-align: left;
+    padding-left: 18px;
+  }
+
+  .quick-links-text{
+    display: flex;
+    width: 152px;
+    height: 42.133px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px; /* 135% */
+    letter-spacing: -0.286px;
+  }
+
+  .other-quick-links{
+    display: flex;
+    width: 268px;
+    height: 114.204px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 27px; /* 150% */
+    letter-spacing: -0.286px;
+    text-align: left;
+    padding-left: 28px;
+  }
+
+  .download-app-text{
+    display: flex;
+    width: 314.667px;
+    height: 16.632px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px; /* 190% */
+    letter-spacing: -0.286px;
+  }
+
+  .google-play-image{
+    width: 206.333px;
+    height: 63.514px;
+    margin-left: -20px;
+  }
+
+  .find-us-on{
+    display: flex;
+    width: 137.333px;
+    height: 32.154px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px; /* 190% */
+    letter-spacing: -0.286px;
+  }
+
+  .media-icons{
+    width: 17%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 15px;
+  }
+
+  .facebook-icon{
+    width: 40px;
+    height: 33.263px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\fb-logo.png'), #171E27 50% / cover no-repeat;
+  }
+
+  .youtube-icon{
+    width: 57.333px;
+    height: 47.677px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\yt-logo.png'), #171E27 50% / cover no-repeat;
+  }
+
+  .instagram-icon{
+    width: 41.333px;
+    height: 35.481px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\insta-logo.png'), #171E27 50% / cover no-repeat;
+  }
+
+  .twitter-icon{
+    width: 58.667px;
+    height: 48.786px;
+    flex-shrink: 0;
+    background: url('H:\Chottastock\chotta-stock\public\twitter-logo.png'), #171E27 50% / cover no-repeat;
+  }
+
+  .final-footer-information{
+    display: flex;
+    width: 1648px;
+    height: 259.453px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-2, #D9D9D9);
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 18px; /* 112.5% */
+    letter-spacing: -0.286px;
+    text-align: left;
+  }
+
+  .final-footer-details-ending{
+    margin: 8px 0;
+  }
