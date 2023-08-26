@@ -4,4 +4,4 @@
 
 ### Video Explanation [link to video](https://drive.google.com/file/d/1pWnRBTGTISn74ACtU35GOZZSkWh4oDq_/view?usp=sharing)
 
-Note: The video is without voice I am at the Hospital, so I am not able to speak.
+Note: The video is without voice. Because I was in the Hospital.
