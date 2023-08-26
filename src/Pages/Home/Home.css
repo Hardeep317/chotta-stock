@@ -35,7 +35,7 @@
   width: 318px;
   height: 91px;
   flex-shrink: 0;
-  background: url("H:\Chottastock\chotta-stock\public\logo.png"),
+  background: url("chotta-stock\public\logo.png"),
     #171e27 50% / cover no-repeat;
   display: flex;
   justify-content: flex-end;
